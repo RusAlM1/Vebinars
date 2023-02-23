@@ -1,0 +1,27 @@
+[
+  {
+    "login": "admin123",
+    "password": "123",
+    "site": "ya.ru"
+  },
+  {
+    "login": "admin",
+    "password": "123",
+    "site": "google.com"
+  },
+  {
+    "login": "admin1",
+    "password": "123",
+    "site": "google.com"
+  },
+  {
+    "login": "admin",
+    "password": "111",
+    "site": "gmail.com"
+  },
+  {
+    "login": "admin",
+    "password": "giwatav227",
+    "site": "mail.ru"
+  }
+]

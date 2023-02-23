@@ -1,0 +1,102 @@
+{
+  "20": [
+    {
+      "name": "EUR",
+      "cost": 1.2,
+      "amount": 200.0
+    },
+    {
+      "name": "RUB",
+      "cost": 0.01354,
+      "amount": 1000
+    },
+    {
+      "name": "BTC",
+      "cost": 36000,
+      "amount": 0.003
+    },
+    {
+      "name": "ETH",
+      "cost": 25000,
+      "amount": 0.005
+    }
+  ],
+  "21": [
+    {
+      "name": "EUR",
+      "cost": 1.2,
+      "amount": 200.0
+    },
+    {
+      "name": "ETH",
+      "cost": 17000.0,
+      "amount": 0.06
+    },
+    {
+      "name": "BTC",
+      "cost": 37000,
+      "amount": 0.0073
+    }
+  ],
+  "22": [
+    {
+      "name": "EUR",
+      "cost": 1.5,
+      "amount": 300.0
+    },
+    {
+      "name": "ETH",
+      "cost": 15000.0,
+      "amount": 0.09
+    },
+    {
+      "name": "BTC",
+      "cost": 37000,
+      "amount": 0.0073
+    }
+  ],
+  "23": [
+    {
+      "name": "EUR",
+      "cost": 1.0,
+      "amount": 500.0
+    },
+    {
+      "name": "ETH",
+      "cost": 17000.0,
+      "amount": 0.06
+    },
+    {
+      "name": "BTC",
+      "cost": 37000,
+      "amount": 0.0073
+    },
+    {
+      "name": "RUB",
+      "cost": 0.0112,
+      "amount": 3000
+    }
+  ],
+  "24": [
+    {
+      "name": "EUR",
+      "cost": 1.5,
+      "amount": 500.0
+    },
+    {
+      "name": "ETH",
+      "cost": 13000.0,
+      "amount": 0.9
+    },
+    {
+      "name": "BTC",
+      "cost": 39000,
+      "amount": 0.01
+    },
+    {
+      "name": "RUB",
+      "cost": 0.011,
+      "amount": 3000
+    }
+  ]
+}

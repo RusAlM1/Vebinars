@@ -1,0 +1,36 @@
+{
+  "20": [
+    {
+      "name": "RUB",
+      "cost": 0.01354,
+      "amount": 1000
+    },
+    {
+      "name": "BTC",
+      "cost": 36000,
+      "amount": 0.003
+    },
+    {
+      "name": "ETH",
+      "cost": 25000,
+      "amount": 0.005
+    }
+  ],
+  "21": [
+    {
+      "name": "RUB",
+      "cost": 0.01354,
+      "amount": 2000
+    },
+    {
+      "name": "BTC",
+      "cost": 36000,
+      "amount": 0.006
+    },
+    {
+      "name": "EUR",
+      "cost": 80,
+      "amount": 100
+    }
+  ]
+}
